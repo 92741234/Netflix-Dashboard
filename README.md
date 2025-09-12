@@ -6,62 +6,65 @@ This project is an end-to-end analysis of the Netflix dataset using Power BI. Th
 
 The objective of this project was to explore content trends, audience targeting, and platform growth by transforming raw Netflix data into interactive dashboards. Through data cleaning, modeling, and visualization, I built a report that helps answer critical questions like:
 
-How has Netflix’s content library grown over the years?
+1) How has Netflix’s Rapidly grow from 2015?
 
-Which countries contribute the most to Netflix’s catalog?
+2) Which countries contribute the most to Netflix’s catalog?
 
-What type of content (Movies vs. TV Shows) dominates?
+3) What type of content (Movies vs. TV Shows) dominates?
 
-How are age ratings distributed across content?
+4) How are age ratings distributed across content?
 
 🔧 Tools & Techniques Used
 
-Power BI Desktop → Dashboard creation
+a) Power BI Desktop → Dashboard creation.
 
-Power Query → Data cleaning & transformation
+b) Power Query → Data cleaning & transformation.
 
-DAX (Data Analysis Expressions) → Custom measures & KPIs
+c) DAX (Data Analysis Expressions) → Custom measures & KPIs.
 
- Filters → Interactive analysis by year, rating, or type
+d) Filters → Interactive analysis by year, rating, or type.
 
 📊 Key Features of the Dashboard
 
-Content Trends Over Time
-Number of releases per year (2008–2021)
-Split between Movies and TV Shows
-Geographic Analysis
-Ratings Distribution
-Popular age group categories (e.g., TV-MA, TV-14, PG-13)
-Genre Insights
-Comparison of movies vs. TV shows by category
+1) Content Trends Over Time.
+
+2) Number of releases per year (2008–2021).
+
+3) Split between Movies and TV Shows.
+
+4) Geographic Analysis.
+
+5) Ratings Distribution.
+
+6) Popular age group categories (e.g., TV-MA, TV-14, PG-13).
+
+7) Genre Insights.
+
+8) Comparison of movies vs. TV shows by category.
 
 💡 Insights Generated
 
-Netflix’s content library has grown rapidly since 2015, aligning with its global expansion.
+1) Netflix’s content library has grown rapidly since 2015, aligning with its global expansion.
 
-Movies make up a larger share of Netflix’s catalog, but TV Shows are steadily increasing.
+2) Movies make up a larger share of Netflix’s catalog, but TV Shows are steadily increasing.
 
-The majority of content is from the United States and India, showing strong dominance in English and Hindi content.
+3) The majority of content is from the United States and India, showing strong dominance in English and Hindi content.
 
-TV-MA and TV-14 are the most common ratings, reflecting Netflix’s focus on adult and teen audiences.
+4) TV-MA and TV-14 are the most common ratings, reflecting Netflix’s focus on adult and teen audiences.
 
 🚀 Value of This Project
 
 This project demonstrates my ability to:
 
-Clean and transform large datasets in Power Query
+1) Clean and transform large datasets in Power Query.
 
-Apply DAX formulas to generate measures and KPIs
+2) Apply DAX formulas to generate measures and KPIs.
 
-Design interactive and insightful dashboards for real-world datasets
+3) Design interactive and insightful dashboards for real-world datasets.
 
-Communicate data stories effectively with visuals
+4) Communicate data stories effectively with visuals.
 
-It’s a strong example of how data analytics can turn raw streaming data into meaningful insights about industry trends, audience targeting, and business growth.
-
-📸 Sample Dashboard View
-
-(Add screenshots here – e.g., content growth chart, map visualization, rating breakdown.)
+5) It’s a strong example of how data analytics can turn raw streaming data into meaningful insights about industry trends, audience targeting, and business growth.
 
 ✨ Conclusion
 
