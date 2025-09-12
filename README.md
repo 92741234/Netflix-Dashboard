@@ -22,27 +22,21 @@ Power Query → Data cleaning & transformation
 
 DAX (Data Analysis Expressions) → Custom measures & KPIs
 
-Slicers & Filters → Interactive analysis by year, rating, or type
+ Filters → Interactive analysis by year, rating, or type
 
 📊 Key Features of the Dashboard
 
 Content Trends Over Time
 
-Number of releases per year (2008–2021)
+Number of releases per year (2008–2019)
 
 Split between Movies and TV Shows
 
 Geographic Analysis
 
-Top countries contributing to Netflix content
-
-Regional focus of Netflix’s library
-
 Ratings Distribution
 
 Popular age group categories (e.g., TV-MA, TV-14, PG-13)
-
-Family vs. adult-oriented content
 
 Genre Insights
 
