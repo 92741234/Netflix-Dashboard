@@ -27,21 +27,12 @@ DAX (Data Analysis Expressions) → Custom measures & KPIs
 📊 Key Features of the Dashboard
 
 Content Trends Over Time
-
-Number of releases per year (2008–2019)
-
+Number of releases per year (2008–2021)
 Split between Movies and TV Shows
-
 Geographic Analysis
-
 Ratings Distribution
-
 Popular age group categories (e.g., TV-MA, TV-14, PG-13)
-
 Genre Insights
-
-Most common genres in Netflix library
-
 Comparison of movies vs. TV shows by category
 
 💡 Insights Generated
