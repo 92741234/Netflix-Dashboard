@@ -1,4 +1,4 @@
-# Netflix Insight(2008-2024).
+# Netflix Insight(2008-2021).
 
 📌 Project Overview
 
