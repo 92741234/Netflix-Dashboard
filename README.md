@@ -1,4 +1,4 @@
-# Netflix Data Analysis.
+# Netflix Insight(2008-2024).
 
 📌 Project Overview
 
